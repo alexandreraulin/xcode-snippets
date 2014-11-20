@@ -1,6 +1,7 @@
-// hex color
+// Hexa to UIColor
 // 
 //
+// IDECodeSnippetCompletionPrefix: hex color
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 990FEAD9-7030-41C9-91A4-606B39CB77F1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
