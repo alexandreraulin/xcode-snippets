@@ -2,7 +2,7 @@
 // 
 //
 // IDECodeSnippetCompletionPrefix: assert
-// IDECodeSnippetCompletionScopes: [CodeBlock]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: F30CDF13-F7DF-4F46-A4CE-C09F0C2DBDC1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
